@@ -8,7 +8,4 @@ public class HelloWorldSam {
         
     }
     
-    public static void printTravis(){
-        System.out.println("Hey it's Travis!");
-    }
 }
